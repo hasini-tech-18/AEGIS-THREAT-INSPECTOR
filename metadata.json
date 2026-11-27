@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Threat Inspector",
+  "description": "Analyze suspicious links, messages, and phone numbers with instant risk scoring, clear threat explanations, and actionable safety guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
